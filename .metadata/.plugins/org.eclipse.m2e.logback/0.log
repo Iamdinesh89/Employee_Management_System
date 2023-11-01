@@ -1,0 +1,11 @@
+2023-10-31 13:03:50,390 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-31 13:04:18,747 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Springboot:Springboot-Backend:0.0.1-SNAPSHOT @ C:\Users\malch\Desktop\Angular+Springboot Web Application\Employee-Management-System\Springboot-Backend\pom.xml.
+2023-10-31 13:04:21,231 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot-Backend/src/main/java
+2023-10-31 13:04:21,233 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot-Backend/src/main/resources
+2023-10-31 13:04:21,235 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot-Backend/src/main/resources
+2023-10-31 13:04:21,247 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot-Backend/src/test/java
+2023-10-31 13:04:21,730 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-10-31 13:04:28,094 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-31 13:04:28,180 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-31 13:04:28,186 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\malch\Desktop\Angular+Springboot Web Application\Employee-Management-System\Springboot-Backend\src\test\resources
+2023-10-31 13:52:56,980 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
